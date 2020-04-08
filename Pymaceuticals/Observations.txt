@@ -1,0 +1,7 @@
+Observations
+
+1. There is a high positive correlation (0.84) between mouse weight and average tumor volume in the population of mice that were treated with the drug Capomulin.
+
+2. Infubinol was the only promising drug that had any mice whose final tumor volume was considered an outlier based on the distribution.
+
+3. Ramicane's tumor volume mean and median are the most similar out of any of the drugs in the study meaning its distribution is closest to being symmetric.
